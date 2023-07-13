@@ -1,0 +1,17 @@
+{
+  "name": "bomb",
+  "version": "1.0.0",
+  "description": "Bomba",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "AngelRaymondi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.4.0",
+    "node-fetch": "^3.2.6"
+  }
+}
